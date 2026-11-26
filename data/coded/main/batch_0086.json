@@ -1,0 +1,3676 @@
+[
+ {
+  "id": "462645696",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "county youth confidence building via mentorship, resources and educational opportunities"
+ },
+ {
+  "id": "411749453",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "parent group funding classroom materials, supplies and school community events"
+ },
+ {
+  "id": "263700660",
+  "youth_focus": "primary",
+  "mentoring": "component",
+  "mentoring_types": [
+   "group"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "academic_tutoring",
+   "college_access",
+   "sports_recreation",
+   "faith_based",
+   "leadership_civic"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "college"
+  ],
+  "evidence_level": 0,
+  "notes": "youth ministry with after-school help, college tuition aid, soccer teams mentoring young leaders"
+ },
+ {
+  "id": "141340011",
+  "youth_focus": "partial",
+  "mentoring": "component",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "health_wellness",
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "early_childhood",
+   "elementary"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional",
+   "health"
+  ],
+  "evidence_level": 0,
+  "notes": "community YMCA membership, youth sports, senior fitness; volunteers serve as mentors"
+ },
+ {
+  "id": "810358977",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "4-H youth development through school enrichment, boards and events"
+ },
+ {
+  "id": "831737424",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic",
+   "academic_tutoring"
+  ],
+  "targets": [
+   "girls",
+   "racial_ethnic_minority"
+  ],
+  "ages": [
+   "middle",
+   "high"
+  ],
+  "youth_served": 150,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "Black girls conference, small-group leadership sessions and monthly literacy book packages"
+ },
+ {
+  "id": "237255828",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "club sports leagues for member children"
+ },
+ {
+  "id": "200459396",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "boys"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "boys basketball instruction and competition for local student athletes"
+ },
+ {
+  "id": "753023495",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "early_childhood_childcare",
+   "camp"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "middle"
+  ],
+  "youth_served": 49,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "after-school program and summer camp for young children"
+ },
+ {
+  "id": "922220286",
+  "youth_focus": "none",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "health_wellness"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "health"
+  ],
+  "evidence_level": 0,
+  "notes": "boxing and self-defense empowerment for women, all ages"
+ },
+ {
+  "id": "330269395",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "youth baseball league games and practices"
+ },
+ {
+  "id": "471073442",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "career_workforce"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "career_employment"
+  ],
+  "evidence_level": 0,
+  "notes": "education-to-employment systems change; population served not specified"
+ },
+ {
+  "id": "471119980",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "arts_culture",
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "club memberships offering recreational, cultural and civic activities for youth"
+ },
+ {
+  "id": "273368026",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "faith_based"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "Quran recitation and memorization for community, emphasis on children"
+ },
+ {
+  "id": "830291408",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "youth skating and hockey skill development"
+ },
+ {
+  "id": "463746015",
+  "youth_focus": "none",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "low_income",
+   "rural"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "financial support for rural poor areas abroad"
+ },
+ {
+  "id": "810308003",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "youth club mission only; no program detail"
+ },
+ {
+  "id": "814024345",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "arts_culture"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "middle"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "social_emotional",
+   "belonging_relationships"
+  ],
+  "evidence_level": 0,
+  "notes": "year-round after-school performing arts, three days weekly, with place-based project"
+ },
+ {
+  "id": "921037365",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "yes",
+  "program_types": [
+   "sports_recreation",
+   "health_wellness",
+   "arts_culture"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional",
+   "health"
+  ],
+  "evidence_level": 0,
+  "notes": "underserved youth sports, workshops and mentors from coaches and professionals"
+ },
+ {
+  "id": "272004586",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "early_childhood",
+   "elementary",
+   "middle"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "competitive youth baseball teaching sportsmanship and teamwork"
+ },
+ {
+  "id": "475128532",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "fundraising for junior tennis and youth instruction"
+ },
+ {
+  "id": "850461449",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic",
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "agriculture education for youth including county fair"
+ },
+ {
+  "id": "824394443",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "unclear",
+  "program_types": [
+   "arts_culture",
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "mentorship of children in music and sports"
+ },
+ {
+  "id": "474992433",
+  "youth_focus": "primary",
+  "mentoring": "component",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "unclear",
+  "program_types": [
+   "prevention_justice",
+   "health_wellness"
+  ],
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "health"
+  ],
+  "evidence_level": 0,
+  "notes": "native youth education, prevention skills and mentorship"
+ },
+ {
+  "id": "464507361",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs",
+   "other"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 25,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "housing, food, medical care and tuition for children at Kenyan orphanage"
+ },
+ {
+  "id": "208188811",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "purchasing show animals for youth"
+ },
+ {
+  "id": "521071893",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "arts_culture"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "performance company and artist collective; youth not mentioned"
+ },
+ {
+  "id": "384049345",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness",
+   "other"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "trauma-informed training and coaching for schools and community systems"
+ },
+ {
+  "id": "263721470",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "group",
+   "school_based"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic"
+  ],
+  "targets": [
+   "boys"
+  ],
+  "ages": [
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "social_emotional",
+   "belonging_relationships"
+  ],
+  "evidence_level": 0,
+  "notes": "adult men mentor teen boys in school groups, monthly outings, rites-of-passage weekend"
+ },
+ {
+  "id": "562122224",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness",
+   "sports_recreation",
+   "other"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 35,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "at-risk youth life skills, nutrition and fitness, three days weekly"
+ },
+ {
+  "id": "861097635",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "leadership_civic"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": 150,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "girls basketball club with team play for about 150 players"
+ },
+ {
+  "id": "471847579",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "faith_based",
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "ranch with rescue animals used in a mentorship program; Christian refuge for families"
+ },
+ {
+  "id": "465306418",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "free meals for children and families in food-deprived areas"
+ },
+ {
+  "id": "922924110",
+  "youth_focus": "primary",
+  "mentoring": "component",
+  "mentoring_types": [
+   "career_workplace"
+  ],
+  "bridging": "yes",
+  "program_types": [
+   "career_workforce",
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "high"
+  ],
+  "youth_served": 100,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "teen field trips, workforce training and career speakers in south suburbs"
+ },
+ {
+  "id": "743193669",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "parent group encouraging family and community involvement at elementary school"
+ },
+ {
+  "id": "731623255",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "health_wellness"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "life skills and healthy starts taught through golf"
+ },
+ {
+  "id": "311130024",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 300,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "youth sports promoting fair play, about 300 participants"
+ },
+ {
+  "id": "820295709",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "low-cost family skiing; youth not specifically described"
+ },
+ {
+  "id": "872266719",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "youth development through basketball"
+ },
+ {
+  "id": "271311418",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth",
+   "young_adult"
+  ],
+  "youth_served": 3600,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "classroom financial literacy lessons reaching thousands of students"
+ },
+ {
+  "id": "871674197",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "career_workforce"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 10,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "small group of youth learning business plans and self-motivation"
+ },
+ {
+  "id": "472197353",
+  "youth_focus": "partial",
+  "mentoring": "component",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "prevention_justice",
+   "leadership_civic",
+   "career_workforce",
+   "other"
+  ],
+  "targets": [
+   "low_income",
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth",
+   "young_adult"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "school-to-prison prevention mission, tax help, youth coalition, young adult job skills"
+ },
+ {
+  "id": "237168410",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "county 4-H club work building responsibility in young people"
+ },
+ {
+  "id": "451299730",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic",
+   "stem"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "middle"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "middle school girls confidence workshops, quarterly events, scholarships"
+ },
+ {
+  "id": "432014657",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "racial_ethnic_minority"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "promoting tennis in minority community; ages not stated"
+ },
+ {
+  "id": "873914286",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "rural"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "junior rodeo events for kindergarten through twelfth grade"
+ },
+ {
+  "id": "383913798",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "disability",
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "service club foundation giving scholarships and grants to varied nonprofits"
+ },
+ {
+  "id": "341033475",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "faith_based",
+   "camp"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "Christian teen outreach events, concerts and camp"
+ },
+ {
+  "id": "264579190",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "foster_family_support",
+   "early_childhood_childcare"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth",
+   "early_childhood"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "parent and educator training and family life education for child outcomes"
+ },
+ {
+  "id": "270046045",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "service club maintaining park and kids fishing pond, scholarships, donations"
+ },
+ {
+  "id": "845044723",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support"
+  ],
+  "targets": [
+   "disability"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "teacher education to help children with learning challenges"
+ },
+ {
+  "id": "811349483",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking",
+   "other"
+  ],
+  "targets": [
+   "rural"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "community improvement projects including school path, pool, youth projects"
+ },
+ {
+  "id": "261407568",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "very thin mission about outlet for underprivileged children"
+ },
+ {
+  "id": "030221945",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "faith_based"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "trains teachers who lead religious childrens clubs"
+ },
+ {
+  "id": "860804141",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "teaching ice hockey skills to youth"
+ },
+ {
+  "id": "461852901",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "faith_based",
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "Christian group supporting other nonprofits youth programs"
+ },
+ {
+  "id": "450536344",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "one_to_one",
+   "group",
+   "school_based"
+  ],
+  "bridging": "yes",
+  "program_types": [
+   "leadership_civic",
+   "career_workforce",
+   "college_access",
+   "faith_based",
+   "sports_recreation"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": 182,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "graduation",
+   "college",
+   "career_employment",
+   "safety_delinquency"
+  ],
+  "evidence_level": 2,
+  "notes": "Christian mentoring in south Dallas schools plus paid internships, job shadowing, college tours"
+ },
+ {
+  "id": "871329470",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "camp"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 250,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "youth soccer club with camps and tournaments, about 250 players"
+ },
+ {
+  "id": "412072251",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic",
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "boys"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "council endowment fund for scouting; no direct program detail"
+ },
+ {
+  "id": "300136132",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "foster_family_support"
+  ],
+  "targets": [
+   "foster_care",
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "partners with governments abroad to promote family-based care over institutions"
+ },
+ {
+  "id": "471762121",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "amateur sports competition as vehicle for childrens social growth"
+ },
+ {
+  "id": "611516132",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "arts_culture",
+   "health_wellness"
+  ],
+  "targets": [
+   "disability"
+  ],
+  "ages": [
+   "all_youth",
+   "young_adult"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "music mentorship and interactive programs for ill, injured or disabled young people"
+ },
+ {
+  "id": "421660753",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "arts_culture"
+  ],
+  "targets": [
+   "disability"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "sports for disabled children and cultural activities for local youth"
+ },
+ {
+  "id": "810929818",
+  "youth_focus": "unclear",
+  "mentoring": "central",
+  "mentoring_types": [
+   "group"
+  ],
+  "bridging": "unclear",
+  "program_types": [
+   "health_wellness",
+   "leadership_civic"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "mentorship mission; 16-week Saturday sessions with speakers and social-emotional training"
+ },
+ {
+  "id": "043407794",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "town youth basketball programs"
+ },
+ {
+  "id": "883309336",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "family-centered support for healthy development; services not detailed"
+ },
+ {
+  "id": "412009710",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "one_to_one"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "referred at-risk youth paired with trained adult mentors for at least a year"
+ },
+ {
+  "id": "881301076",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "foster_family_support"
+  ],
+  "targets": [
+   "foster_care"
+  ],
+  "ages": [
+   "young_adult"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "connecting community resources to young people who aged out of foster care"
+ },
+ {
+  "id": "204403950",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "investment professionals network supporting organizations serving children in need"
+ },
+ {
+  "id": "043078229",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "middle"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "baseball and softball for grades one to eight"
+ },
+ {
+  "id": "364125560",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "arts_culture"
+  ],
+  "targets": [
+   "immigrant_refugee"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "theater company for immigrant and first-generation youth and adult artists"
+ },
+ {
+  "id": "510064337",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic",
+   "camp",
+   "stem",
+   "sports_recreation"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 5000,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 1,
+  "notes": "girl scouting council with camps, stem, service and clinics; over 5000 girls"
+ },
+ {
+  "id": "135591750",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "camp",
+   "academic_tutoring",
+   "college_access",
+   "career_workforce",
+   "basic_needs"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "academic"
+  ],
+  "evidence_level": 0,
+  "notes": "club for boys with camps, homework help, college and career prep, meals"
+ },
+ {
+  "id": "411299155",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic",
+   "camp"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "university extension 4-H leadership, projects, events and camps"
+ },
+ {
+  "id": "042103924",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "camp",
+   "sports_recreation",
+   "health_wellness"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "club summer camp ten weeks with swimming, boating, nature and safety lessons"
+ },
+ {
+  "id": "465397997",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness",
+   "prevention_justice"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "health"
+  ],
+  "evidence_level": 0,
+  "notes": "outdoor group therapy and substance awareness; some youth leadership collaboration"
+ },
+ {
+  "id": "455002063",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "prevention_justice"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth",
+   "young_adult"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "safety_delinquency"
+  ],
+  "evidence_level": 0,
+  "notes": "after-school and weekend soccer meant to reduce risk of illegal activity"
+ },
+ {
+  "id": "861622936",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": 125,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "youth mountain bike rides with trained volunteer coaches, about 125 riders"
+ },
+ {
+  "id": "473819465",
+  "youth_focus": "primary",
+  "mentoring": "component",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "prevention_justice"
+  ],
+  "targets": [
+   "at_risk",
+   "low_income",
+   "disability"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "planned veteran-taught martial arts with mentoring; no activities yet"
+ },
+ {
+  "id": "061594187",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "teaching soccer skills and rules"
+ },
+ {
+  "id": "341950890",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "prevention_justice",
+   "leadership_civic",
+   "health_wellness"
+  ],
+  "targets": [
+   "justice_involved"
+  ],
+  "ages": [
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "school and juvenile facility classes on goals, drug and risk avoidance; monthly youth congress"
+ },
+ {
+  "id": "823703931",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "community youth football teaching teamwork and sportsmanship"
+ },
+ {
+  "id": "831463885",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support",
+   "sports_recreation"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "high"
+  ],
+  "youth_served": 29,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "booster club for high school dance team of 29 girls"
+ },
+ {
+  "id": "461060432",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs"
+  ],
+  "targets": [
+   "at_risk",
+   "low_income"
+  ],
+  "ages": [
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "supplies for homeless high schoolers; also gave to medical and overseas orphanage causes"
+ },
+ {
+  "id": "452471103",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "small fundraising foundation buying toys for less fortunate kids"
+ },
+ {
+  "id": "813131422",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "health"
+  ],
+  "evidence_level": 0,
+  "notes": "well-being and independence activities for seniors, youth and families"
+ },
+ {
+  "id": "421586342",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "rural"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "junior livestock show with judging contests and exhibiting"
+ },
+ {
+  "id": "520780207",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "girl scouting mission statement only"
+ },
+ {
+  "id": "260530647",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness",
+   "arts_culture",
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "health"
+  ],
+  "evidence_level": 0,
+  "notes": "dance and fitness classes in seven schools plus family aerial fitness"
+ },
+ {
+  "id": "061738835",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "making sign language accessible and fun for children"
+ },
+ {
+  "id": "020594709",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness"
+  ],
+  "targets": [
+   "disability",
+   "low_income"
+  ],
+  "ages": [
+   "all_youth",
+   "young_adult"
+  ],
+  "youth_served": 629,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "health",
+   "academic"
+  ],
+  "evidence_level": 2,
+  "notes": "free prosthetics and wheelchairs for children abroad; most treated attend school"
+ },
+ {
+  "id": "271985011",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "career_workforce"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "high",
+   "young_adult"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "career assessment exposing seniors and dropouts to unfamiliar industries"
+ },
+ {
+  "id": "582652251",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "faith_based",
+   "camp",
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "Bible clubs, conferences, sports camps and missionary support for children"
+ },
+ {
+  "id": "260416039",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other",
+   "faith_based"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "early_childhood",
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "alternative education program from preschool through grade twelve"
+ },
+ {
+  "id": "882102589",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "unclear",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "taekwondo instruction with youth mentoring in local area"
+ },
+ {
+  "id": "611765722",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "elementary"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "academic"
+  ],
+  "evidence_level": 0,
+  "notes": "urban boarding experience supplying educational resources to poor elementary pupils"
+ },
+ {
+  "id": "843066676",
+  "youth_focus": "none",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "online breathwork, meditation and philosophy classes; no youth focus"
+ },
+ {
+  "id": "273102701",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other",
+   "basic_needs",
+   "college_access"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": 500,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "funds free school in Liberia for about 500 students, feeding and scholarships"
+ },
+ {
+  "id": "812072853",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "arts_culture",
+   "leadership_civic"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 40,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional",
+   "belonging_relationships"
+  ],
+  "evidence_level": 1,
+  "notes": "music training for girls with mentorship, character building and service; 40 participants"
+ },
+ {
+  "id": "922724772",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support",
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "booster support for high school cheer squad"
+ },
+ {
+  "id": "205812079",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "girls"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "recreation and travel softball leagues for girls"
+ },
+ {
+  "id": "202471463",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "donations to local childrens charities"
+ },
+ {
+  "id": "862733338",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "camp",
+   "basic_needs",
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "free sports camps, equipment, nutrition and athlete scholarships for less fortunate youth"
+ },
+ {
+  "id": "831112235",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "youth wrestling for boys and girls"
+ },
+ {
+  "id": "825063727",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic"
+  ],
+  "targets": [
+   "boys"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "mentoring young men to prepare for adult life"
+ },
+ {
+  "id": "900915196",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs",
+   "arts_culture",
+   "leadership_civic"
+  ],
+  "targets": [
+   "at_risk",
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "free after-school meals, crafts and giving-back activities for at-risk kids"
+ },
+ {
+  "id": "821745840",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness",
+   "other"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "care services teaching children to heal from hurts so they can learn"
+ },
+ {
+  "id": "593254371",
+  "youth_focus": "partial",
+  "mentoring": "component",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs",
+   "health_wellness",
+   "career_workforce",
+   "foster_family_support"
+  ],
+  "targets": [
+   "at_risk",
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "basic needs, care, training and mentoring for abused children, women, families"
+ },
+ {
+  "id": "800552419",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "text refers to another schedule; nothing described"
+ },
+ {
+  "id": "208095568",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation",
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "club providing education, entertainment and physical activity for children"
+ },
+ {
+  "id": "463392079",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "academic_tutoring",
+   "faith_based",
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "faith-based after-school homework help and snack, mostly volunteer staffed"
+ },
+ {
+  "id": "232265574",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "camp",
+   "faith_based"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "Christian camp serving campers, families and community"
+ },
+ {
+  "id": "113342896",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "karate for needy children, about two dozen students; paused since pandemic"
+ },
+ {
+  "id": "133913578",
+  "youth_focus": "none",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "food pantry for poor families, as-needed pickup"
+ },
+ {
+  "id": "920833754",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support",
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "booster club funding school extracurricular programs"
+ },
+ {
+  "id": "010211543",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "club mission only; no program detail"
+ },
+ {
+  "id": "861610694",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "family foundation mission about faith, family and football for young people"
+ },
+ {
+  "id": "812369461",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "sports_recreation",
+   "academic_tutoring",
+   "health_wellness"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "academic",
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "baseball, fitness, nutrition and education programs with pro players and university coaches"
+ },
+ {
+  "id": "471212812",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "sports_recreation",
+   "prevention_justice"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "athletics fostering interaction between youth and local police"
+ },
+ {
+  "id": "271204443",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "camp"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 60,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "belonging_relationships"
+  ],
+  "evidence_level": 1,
+  "notes": "inclusive affordable summer camp for 60 youths"
+ },
+ {
+  "id": "370906638",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "health_wellness",
+   "prevention_justice"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "free services for families and children with mental health challenges; trauma training"
+ },
+ {
+  "id": "883748924",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "civil rights charity only just set up; no activities described"
+ },
+ {
+  "id": "262132751",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "basic_needs",
+   "health_wellness"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "aid abroad for food, medical care and education; youth not specified"
+ },
+ {
+  "id": "822604098",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "unspecified"
+  ],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "at_risk"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "graduation",
+   "college",
+   "career_employment",
+   "safety_delinquency"
+  ],
+  "evidence_level": 2,
+  "notes": "professional mentors committing twelve-plus years to youth facing obstacles; outcome percentages reported"
+ },
+ {
+  "id": "205555551",
+  "youth_focus": "none",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "basic_needs"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "womens group aiding people with illness, injury, disaster or grief"
+ },
+ {
+  "id": "814466243",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support",
+   "leadership_civic",
+   "college_access"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "booster club funding agriculture student scholarships and equipment"
+ },
+ {
+  "id": "464441986",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "prevention_justice"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "coalition using policy and enforcement strategies to prevent youth substance use"
+ },
+ {
+  "id": "742721815",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "club mission on behavior guidance and development; no programs detailed"
+ },
+ {
+  "id": "473484786",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "early_childhood_childcare"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "early_childhood",
+   "elementary"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "subsidized day care and learning center for under-served children"
+ },
+ {
+  "id": "383862829",
+  "youth_focus": "none",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "training for community leadership program staff; not youth-serving directly"
+ },
+ {
+  "id": "462156363",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "arts_culture",
+   "camp"
+  ],
+  "targets": [
+   "girls",
+   "lgbtq"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": 95,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "week-long music camp for girls and gender-expansive youth, plus adult camp"
+ },
+ {
+  "id": "910662881",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "camp",
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "outdoor summer camp for grades one through twelve building leadership and teamwork"
+ },
+ {
+  "id": "262974909",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 0,
+  "notes": "sports used to fill educational and emotional gaps for disadvantaged youth"
+ },
+ {
+  "id": "330683335",
+  "youth_focus": "primary",
+  "mentoring": "central",
+  "mentoring_types": [
+   "one_to_one"
+  ],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "belonging_relationships"
+  ],
+  "evidence_level": 0,
+  "notes": "one-to-one mentoring relationships for youth"
+ },
+ {
+  "id": "351961814",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "fundraising entity supporting a festival organization"
+ },
+ {
+  "id": "831259536",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support"
+  ],
+  "targets": [
+   "low_income"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "material and academic grants to underfunded schools, one intern stipend"
+ },
+ {
+  "id": "815334224",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "sports_recreation",
+   "leadership_civic",
+   "academic_tutoring",
+   "school_support"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "academic"
+  ],
+  "evidence_level": 0,
+  "notes": "high school football support, study halls, service trip abroad, academic scholarship"
+ },
+ {
+  "id": "862475015",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "foster_family_support",
+   "sports_recreation"
+  ],
+  "targets": [
+   "foster_care",
+   "disability"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "events supporting foster children and families; funding for inclusive sports expansion"
+ },
+ {
+  "id": "272171541",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "yes",
+  "program_types": [
+   "arts_culture",
+   "stem",
+   "career_workforce",
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "high"
+  ],
+  "youth_served": 100,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "summer media and poetry programs for students with panels of public officials"
+ },
+ {
+  "id": "421652591",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "other",
+   "leadership_civic"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "environmental sustainability education for children, youth and adults, small numbers"
+ },
+ {
+  "id": "474255154",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "girls",
+   "boys"
+  ],
+  "ages": [
+   "middle",
+   "high"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "school ice hockey costs covered for middle and high students"
+ },
+ {
+  "id": "541544706",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "facility_grantmaking"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "yes",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "service club donating fundraiser proceeds to local childrens charities"
+ },
+ {
+  "id": "850533770",
+  "youth_focus": "partial",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "health_wellness",
+   "other"
+  ],
+  "targets": [
+   "justice_involved"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 35,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "wellness and esports education events including incarcerated youth and adults"
+ },
+ {
+  "id": "475371959",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "unclear",
+  "program_types": [
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "only a program title; nothing described"
+ },
+ {
+  "id": "851632898",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "academic_tutoring",
+   "other"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "youth center offering after-school care and tutoring"
+ },
+ {
+  "id": "203538575",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "college_access"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "scholarships, grade incentive cash, community service donation; thin text"
+ },
+ {
+  "id": "272838391",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "all_youth"
+  ],
+  "youth_served": 300,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "social_emotional"
+  ],
+  "evidence_level": 1,
+  "notes": "sports fundamentals and sportsmanship for over 300 young athletes"
+ },
+ {
+  "id": "452445005",
+  "youth_focus": "unclear",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "prevention_justice"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "unclear"
+  ],
+  "youth_served": null,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 0,
+  "notes": "hosted anti-bullying and hazing event"
+ },
+ {
+  "id": "161516523",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "academic_tutoring",
+   "college_access",
+   "arts_culture"
+  ],
+  "targets": [
+   "immigrant_refugee"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": 334,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "tutoring for English learners, first-generation college help, cultural enrichment"
+ },
+ {
+  "id": "830855498",
+  "youth_focus": "primary",
+  "mentoring": "none",
+  "mentoring_types": [],
+  "bridging": "no",
+  "program_types": [
+   "school_support",
+   "sports_recreation"
+  ],
+  "targets": [
+   "general"
+  ],
+  "ages": [
+   "elementary",
+   "middle",
+   "high"
+  ],
+  "youth_served": 390,
+  "dose_stated": "no",
+  "outcomes_claimed": [
+   "none_stated"
+  ],
+  "evidence_level": 1,
+  "notes": "football boosters supplying uniforms, equipment and meals for school and league players"
+ }
+]

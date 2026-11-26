@@ -1,0 +1,40 @@
+{
+  "tagged": {
+    "organizations": 15473,
+    "local": 4655,
+    "national": 10818
+  },
+  "hidden_mentoring": {
+    "national_sample_orgs": 10818,
+    "share_any_mentoring": 0.1268256609354779,
+    "ci": [
+      0.120554663372466,
+      0.1330966584984898
+    ],
+    "share_central": 0.06692549454612683,
+    "share_bridging": 0.04621926418931411,
+    "share_irs_mentoring_code": 0.023479386208171565,
+    "est_orgs_with_mentoring_in_efile_O_universe": [
+      1334,
+      1404,
+      1473
+    ],
+    "ratio_tagged_to_irs_coded": 5.4015748031496065,
+    "share_of_mentoring_orgs_without_irs_code": 0.8935860058309038,
+    "keyword_mentor_share": 0.11527084488814938,
+    "keyword_vs_tag_agreement": 0.9849325198742837
+  },
+  "priority_supply": {
+    "priority_counties": 124,
+    "with_any_youth_serving_org_in_county": 81,
+    "with_any_mentoring_org_in_county": 4,
+    "with_any_mentoring_org_in_county_or_neighbor": 62,
+    "with_irs_coded_mentoring_org_in_county": 0,
+    "median_mentoring_orgs_per_10k_children_county_plus_neighbors": 0.04042968671035768,
+    "local_set_tagged_share": 0.9685809404910528
+  },
+  "candidate_partners": {
+    "organizations": 136,
+    "in_priority_counties": 5
+  }
+}

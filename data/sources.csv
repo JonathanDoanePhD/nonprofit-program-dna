@@ -1,0 +1,9 @@
+file,url,source,license,unzip
+irs990/index_2023.csv,https://apps.irs.gov/pub/epostcard/990/xml/2023/index_2023.csv,IRS Form 990 e-file index (returns processed in 2023),Public domain (U.S. government work); e-filed returns are public records,
+irs990/index_2024.csv,https://apps.irs.gov/pub/epostcard/990/xml/2024/index_2024.csv,IRS Form 990 e-file index (returns processed in 2024),Public domain (U.S. government work); e-filed returns are public records,
+bmf/eo1.csv,https://www.irs.gov/pub/irs-soi/eo1.csv,IRS Exempt Organizations Business Master File (region 1),Public domain (U.S. government work),
+bmf/eo2.csv,https://www.irs.gov/pub/irs-soi/eo2.csv,IRS Exempt Organizations Business Master File (region 2),Public domain (U.S. government work),
+bmf/eo3.csv,https://www.irs.gov/pub/irs-soi/eo3.csv,IRS Exempt Organizations Business Master File (region 3),Public domain (U.S. government work),
+bmf/eo4.csv,https://www.irs.gov/pub/irs-soi/eo4.csv,IRS Exempt Organizations Business Master File (region 4),Public domain (U.S. government work),
+census/tab20_zcta520_county20_natl.txt,https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_county20_natl.txt,U.S. Census Bureau 2020 ZCTA-to-county relationship file,Public domain (U.S. government work),
+census/county_adjacency2023.txt,https://www2.census.gov/geo/docs/reference/county_adjacency/county_adjacency2023.txt,U.S. Census Bureau county adjacency file 2023,Public domain (U.S. government work),

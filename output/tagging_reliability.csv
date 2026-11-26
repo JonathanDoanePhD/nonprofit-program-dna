@@ -1,0 +1,52 @@
+field,n,pct_agree,kappa
+youth_focus,600,0.945,0.905
+mentoring,600,0.993,0.958
+bridging,600,0.953,0.604
+dose_stated,600,0.967,0.760
+evidence_level,600,0.977,0.919
+any mentoring (yes/no),600,1.000,1.000
+evidence_level (within 1),600,0.997,
+mentoring_types (mean Jaccard),600,0.992,
+mentoring_types:group,600,1.000,1.000
+mentoring_types:unspecified,600,0.995,0.955
+program_types (mean Jaccard),600,0.810,
+program_types:academic_tutoring,600,0.973,0.822
+program_types:arts_culture,600,0.985,0.899
+program_types:basic_needs,600,0.970,0.872
+program_types:camp,600,0.985,0.875
+program_types:career_workforce,600,0.983,0.889
+program_types:college_access,600,0.978,0.824
+program_types:early_childhood_childcare,600,0.985,0.886
+program_types:facility_grantmaking,600,0.955,0.748
+program_types:faith_based,600,0.987,0.928
+program_types:foster_family_support,600,0.992,0.811
+program_types:health_wellness,600,0.943,0.766
+program_types:leadership_civic,600,0.958,0.830
+program_types:other,600,0.852,0.650
+program_types:prevention_justice,600,0.982,0.746
+program_types:school_support,600,0.980,0.796
+program_types:sports_recreation,600,0.975,0.932
+program_types:stem,600,0.995,0.945
+targets (mean Jaccard),600,0.874,
+targets:at_risk,600,0.975,0.733
+targets:boys,600,0.995,0.855
+targets:disability,600,0.988,0.851
+targets:general,600,0.913,0.806
+targets:girls,600,0.992,0.901
+targets:low_income,600,0.963,0.855
+targets:racial_ethnic_minority,600,0.995,0.936
+ages (mean Jaccard),600,0.728,
+ages:all_youth,600,0.923,0.844
+ages:early_childhood,600,0.990,0.921
+ages:elementary,600,0.990,0.944
+ages:high,600,0.972,0.893
+ages:middle,600,0.982,0.913
+ages:unclear,600,0.758,0.374
+ages:young_adult,600,0.978,0.743
+outcomes_claimed (mean Jaccard),600,0.892,
+outcomes_claimed:academic,600,0.977,0.409
+outcomes_claimed:career_employment,600,0.985,0.179
+outcomes_claimed:health,600,0.972,0.000
+outcomes_claimed:none_stated,600,0.897,0.253
+outcomes_claimed:social_emotional,600,0.925,0.194
+youth_served (same value or both null),600,0.983,
